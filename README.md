@@ -1,8 +1,13 @@
-# Helen Keller stick - Embedded Smart Navigation Stick
+# Helen Keller Stick - Embedded Smart Navigation Stick
 
-A real-time embedded navigation system designed to assist visually impaired users by detecting obstacles and environmental hazards and providing immediate audio feedback.
+> *“Water.” - Helen Keller’s first word.*
 
-The project combines **embedded C++ development, real-time sensor processing, hardware integration, distance measurement, and decision-making logic** in a compact assistive-technology system.
+A single word that opened a world of meaning. Inspired by Helen Keller’s story, this project brings together **embedded engineering and assistive technology** to help visually impaired users navigate their surroundings with greater awareness.
+
+Built in **C++**, the system combines real-time sensor processing, obstacle and hazard detection, hardware integration, and immediate audio feedback in a compact embedded solution.
+
+---
+
 ![20240717_130449](https://github.com/user-attachments/assets/04a5bfef-120e-4947-8625-1a236d5e6e21)
 
 Action demo:
